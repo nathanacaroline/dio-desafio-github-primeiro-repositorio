@@ -16,7 +16,7 @@ git add meu_diretorio
 git add *
 ## Comitar um arquivo
 git commit meu_arquivo.txt
-## O primeiro push de um repositório deve conter o nome do repositório remoto e o branch.
+## O primeiro push de um repositório deve conter o nome do repositório remoto e o branch
 git push -u origin master
 ## Os demais pushes não precisam dessa informação
 git push
